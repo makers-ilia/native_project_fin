@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "username": "jack",
+      "age": "34",
+      "password": "pass123",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "username": "jimm",
+      "age": "45",
+      "password": "pass234",
+      "isAdmin": true,
+      "id": 2
+    },
+    {
+      "username": "tom",
+      "age": "56",
+      "password": "pass34",
+      "isAdmin": false,
+      "id": 3
+    },
+    {
+      "username": "Jack",
+      "age": "34",
+      "password": "pass1234",
+      "isAdmin": true,
+      "id": 4
+    },
+    {
+      "username": "Admin",
+      "age": "34",
+      "password": "pass0551",
+      "isAdmin": true,
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "title": "Product 2 UPDATED SUPER TEST",
+      "price": "1300",
+      "desc": "Hello 2",
+      "image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80"
+    },
+    {
+      "id": 7,
+      "title": "c",
+      "price": "c",
+      "desc": "c",
+      "image": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg"
+    },
+    {
+      "title": "x",
+      "price": "x",
+      "desc": "x",
+      "image": "x",
+      "category": "phones",
+      "id": 8
+    },
+    {
+      "title": "Mroduct",
+      "price": "f",
+      "desc": "f",
+      "image": "f",
+      "category": "f",
+      "id": 9
+    },
+    {
+      "title": "c",
+      "price": "c",
+      "desc": "c",
+      "image": "c",
+      "category": "c",
+      "id": 10
+    },
+    {
+      "title": "f",
+      "price": "f",
+      "desc": "f",
+      "image": "f",
+      "category": "f",
+      "id": 11
+    }
+  ]
+}
